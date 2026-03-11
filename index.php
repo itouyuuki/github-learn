@@ -13,7 +13,7 @@ $base="./"
 <section id="about">
     <div class="hgroup-con">
         <hgroup>
-            <p>Company3</p>
+            <p>Company6</p>
             <h2>会社概要</h2>
         </hgroup>
     </div>
