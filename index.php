@@ -14,7 +14,7 @@ $base="./"
     <div class="hgroup-con">
         <hgroup>
             <p>Company6</p>
-            <h2>会社概要</h2>
+            <h2>会社概要22</h2>
         </hgroup>
     </div>
     <dl class="dl-list">
